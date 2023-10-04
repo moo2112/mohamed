@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1696408700 source:c:\users\embedded.trainning\desktop\task1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"file.h"
+
+1696417326 c:\users\embedded.trainning\desktop\task1\file.h
+
+1696416363 source:c:\users\embedded.trainning\desktop\task1\file.c
+	"file.h"
+
